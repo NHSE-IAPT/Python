@@ -1,3 +1,3 @@
 # Python
 
-Python scripts that utilise data from the IAPT dataset
+Python scripts utilising data from the IAPT dataset
